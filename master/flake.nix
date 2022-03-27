@@ -11,6 +11,7 @@
   inputs.src-nsu-master.ref   = "refs/heads/master";
   inputs.src-nsu-master.owner = "Senketsu";
   inputs.src-nsu-master.repo  = "nsu";
+  inputs.src-nsu-master.dir   = "";
   inputs.src-nsu-master.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";

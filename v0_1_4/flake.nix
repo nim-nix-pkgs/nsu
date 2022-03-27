@@ -11,6 +11,7 @@
   inputs.src-nsu-v0_1_4.ref   = "refs/tags/v0.1.4";
   inputs.src-nsu-v0_1_4.owner = "Senketsu";
   inputs.src-nsu-v0_1_4.repo  = "nsu";
+  inputs.src-nsu-v0_1_4.dir   = "";
   inputs.src-nsu-v0_1_4.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";
